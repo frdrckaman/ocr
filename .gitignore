@@ -333,6 +333,7 @@ fabric.properties
 
 # pytype static type analyzer
 
+# Cython debug symbols
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
